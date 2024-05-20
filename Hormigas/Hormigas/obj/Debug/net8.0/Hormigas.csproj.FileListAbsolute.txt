@@ -1,0 +1,28 @@
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.exe
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.deps.json
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.runtimeconfig.json
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.dll
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.pdb
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.AssemblyInfoInputs.cache
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.AssemblyInfo.cs
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.csproj.CoreCompileInputs.cache
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.dll
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\obj\Debug\net8.0\refint\Hormigas.dll
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.pdb
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.genruntimeconfig.cache
+C:\Users\WinterTreat\Desktop\Hormigas\Hormigas\obj\Debug\net8.0\ref\Hormigas.dll
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.exe
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.deps.json
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.runtimeconfig.json
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.dll
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\bin\Debug\net8.0\Hormigas.pdb
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.GeneratedMSBuildEditorConfig.editorconfig
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.AssemblyInfoInputs.cache
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.AssemblyInfo.cs
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.csproj.CoreCompileInputs.cache
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.dll
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\obj\Debug\net8.0\refint\Hormigas.dll
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.pdb
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\obj\Debug\net8.0\Hormigas.genruntimeconfig.cache
+\\wintertreat-lt\Second Memories\Second Tail\1. WinterTreat\Intec\3. Lab Tendencias Software\Tarea 02 [Code Wars 'Ants']\Hormigas\Hormigas\obj\Debug\net8.0\ref\Hormigas.dll
